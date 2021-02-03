@@ -1,0 +1,22 @@
+{
+  "name": "mesonet",
+  "version": "0.0.1",
+  "description": "TypeScript wrapper to Mesonet API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyellis/mesonet.git"
+  },
+  "keywords": [
+    "mesonet"
+  ],
+  "author": "Guy Ellis <wildfiction@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guyellis/mesonet/issues"
+  },
+  "homepage": "https://github.com/guyellis/mesonet#readme"
+}
