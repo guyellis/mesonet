@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "node-fetch": "2.6.1",
-    "runtypes": "5.0.1"
+    "runtypes": "5.0.2"
   },
   "description": "TypeScript wrapper to Mesonet API",
   "devDependencies": {
