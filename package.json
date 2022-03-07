@@ -4,7 +4,7 @@
     "url": "https://github.com/guyellis/mesonet/issues"
   },
   "dependencies": {
-    "node-fetch": "2.6.1",
+    "node-fetch": "3.2.2",
     "runtypes": "6.5.1"
   },
   "description": "TypeScript wrapper to Mesonet API",
