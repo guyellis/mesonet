@@ -10,7 +10,7 @@
   "description": "TypeScript wrapper to Mesonet API",
   "devDependencies": {
     "@types/node-fetch": "2.6.1",
-    "@typescript-eslint/eslint-plugin": "5.30.5",
+    "@typescript-eslint/eslint-plugin": "5.32.0",
     "@typescript-eslint/parser": "5.30.5",
     "eslint": "8.19.0",
     "eslint-import-resolver-typescript": "3.4.0",
